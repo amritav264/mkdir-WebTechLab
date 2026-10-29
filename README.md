@@ -1,2 +1,0 @@
-# mkdir-WebTechLab
-HTML/CSS
